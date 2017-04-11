@@ -1,0 +1,9 @@
+body{
+  background: url("http://www.look.com.ua/pic/201209/1920x1200/look.com.ua-14320.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+}

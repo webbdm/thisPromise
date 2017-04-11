@@ -1,1 +1,13 @@
-$('#header').text("Test");
+$(document).ready(function(){
+	$("my-button").click(function(){
+
+	});
+
+
+
+
+});
+
+
+
+
