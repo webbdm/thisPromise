@@ -1,9 +1,13 @@
-body{
-  background: url("http://www.look.com.ua/pic/201209/1920x1200/look.com.ua-14320.jpg") no-repeat center center fixed;
-  background-size: cover;
+body {
+    background: url("mtn-bkg.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+* {
+    text-align: center;
 }
 
 h1 {
-	text-align: center;
-	color: white;
+    text-align: center;
+    color: white;
 }
